@@ -2,3 +2,4 @@ python-telegram-bot == 13.15
 dotenv
 instaloader
 requests
+urllib3<2
