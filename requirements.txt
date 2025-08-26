@@ -3,3 +3,4 @@ dotenv
 instaloader
 requests
 urllib3<2
+Flask
